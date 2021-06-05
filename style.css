@@ -1,0 +1,73 @@
+.color{
+    color: orange;
+    font-family: 'Potta One', cursive;
+}
+h1{
+    text-align: center;
+}
+.body{
+    background-color: lightskyblue;
+}
+.hr{
+    color: grey;
+}
+.alicante{
+    background-color: red;
+}
+.valencia{
+    background-color: yellow;
+}
+.caramelo{
+    background-color: lightpink;
+}
+.ali{
+    text-align: left;
+    margin-left: 250px;
+}
+.val{
+   text-align: center;
+
+}
+.imagen{
+    text-align: right;
+    margin-right: 250px;
+}
+.titulo1{
+    margin-left: 250px;
+    
+}
+.titulo2{
+    text-align: center;
+}
+.chuche{
+   margin-left: 845px;
+}
+.dos{
+    background-color: lightblue;
+}
+.evento{
+    background-color: white;
+}
+.rosa{
+    background-color: pink;
+    width: 200px;
+    height: 210px;
+}
+.texto{
+    background-color: blue;
+display: block;
+color: white;
+font-family: ZCOOLKuaiLe-Regular ;
+
+}
+.em{
+    color: purple; 
+}
+address{
+    text-align: center;
+    background-color: white;
+}
+@font-face {
+    font-family: ZCOOLKuaiLe-Regular;
+    src: url(fuentes/ZCOOLKuaiLe-Regular.ttf);
+}
